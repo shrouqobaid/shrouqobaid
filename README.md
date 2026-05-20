@@ -38,12 +38,15 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrouqobaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrouqobaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shrouqalmejireshi)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/shrouqobaid)
+<p align="left">
+<a href="https://www.linkedin.com/in/shrouqalmejireshi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shrouqalmejireshi" /></a>
+<a href="https://github.com/shrouqobaid" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="shrouqobaid" /></a>
+</p>
+
+---
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" /> 
+</p>
