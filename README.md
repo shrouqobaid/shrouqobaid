@@ -33,16 +33,13 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 
 ---
 
-### 🧠 Current Learning Path
-- 🔍 Deep diving into **Threat Detection & Blue Team Fundamentals**.
-- 🛠️ Developing custom **Cybersecurity Labs** for practical training.
-- 📈 Analyzing network traffic patterns and SOC workflows.
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrouqobaid&show_icons=true&theme=tokyonight&hide_border=true" alt="Shrouq's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrouqobaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrouqobaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
