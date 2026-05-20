@@ -4,8 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
 </p>
 
-### 🛡️ Cybersecurity Enthusiast | Aspiring SOC Analyst
+### 🛡️ Cybersecurity Professional | Aspiring SOC Analyst
 Passionate about defensive security, traffic analysis, and uncovering hidden threats within networks. Currently refining my skills in SOC operations and penetration testing.
+
+---
+
+### 🎓 Certifications & Education
+- 🏅 **eJPT** (Junior Penetration Tester) - *Candidate*
+- 🌐 **CompTIA Network+** - *In Progress*
+- 📜 **Cybersecurity Diploma**
 
 ---
 
@@ -21,21 +28,21 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 ---
 
 ### 🚀 Featured Projects
-* **[Wireshark SOC Analysis Lab](https://github.com/shrouqobaid)** *Investigating brute force attacks and traffic anomalies using Wireshark and Hydra.*
-* **[Network Scanning Lab](https://github.com/shrouqobaid)** *Advanced reconnaissance, service enumeration, and vulnerability discovery using Nmap.*
+* **[Wireshark SOC Analysis Lab](https://github.com/shrouqobaid/Wireshark-SOC-Analysis-Lab)** - *Investigating brute force attacks and traffic anomalies.*
+* **[Network Scanning Lab](https://github.com/shrouqobaid/network-scanning-lab)** - *Advanced reconnaissance and service enumeration using Nmap.*
 
 ---
 
 ### 🧠 Current Learning Path
-- 📈 Preparing for **CompTIA Network+**.
 - 🔍 Deep diving into **Threat Detection & Blue Team Fundamentals**.
 - 🛠️ Developing custom **Cybersecurity Labs** for practical training.
+- 📈 Analyzing network traffic patterns and SOC workflows.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrouqobaid&show_icons=true&theme=tokyonight" alt="Shrouq's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrouqobaid&show_icons=true&theme=tokyonight&hide_border=true" alt="Shrouq's GitHub Stats" />
 </p>
 
 ---
