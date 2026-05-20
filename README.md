@@ -1,4 +1,10 @@
-# Hi, I'm Shrouq 👋 
+# ⚡ root@shrouq:~# whoami
+
+> **Shrouq Almejireshi** > *Cybersecurity Professional | SOC Analyst Path*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
