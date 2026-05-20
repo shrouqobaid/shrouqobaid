@@ -1,9 +1,8 @@
 # ⚡ root@shrouq:~# whoami
 
-> **Shrouq Almejireshi** > *Cybersecurity Professional | SOC Analyst Path*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-
+$ sh init_professional_profile.sh --name "Shrouq"
+[OK] Loading Cybersecurity Skillset...
+[OK] Initializing SOC Analyst Path...
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
