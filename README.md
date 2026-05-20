@@ -10,10 +10,8 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 ---
 
 ### 🎓 Certifications & Education
-- 🏅 **eJPT** (Junior Penetration Tester) - *Candidate*
-- 🌐 **CompTIA Network+** - *In Progress*
 - 📜 **Cybersecurity Diploma**
-
+- 🚀 **Cybersecurity Bootcamp** - *Foundational Track (147+ Training Hours)*
 ---
 
 ### 🛠️ Professional Toolbox
