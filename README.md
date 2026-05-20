@@ -1,8 +1,11 @@
-# ⚡ root@shrouq:~# whoami
+# ⚡ root@shrouq:~# 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=A970FF&width=435&lines=whoami;Shrouq+Almejireshi;Aspiring+SOC+Analyst;Initializing+Security+Protocol..." alt="Typing SVG" />
+</a>
 
-$ sh init_professional_profile.sh --name "Shrouq"
-[OK] Loading Cybersecurity Skillset...
-[OK] Initializing SOC Analyst Path...
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shrouqobaid&color=blueviolet&style=flat-square" alt="shrouqobaid" />
