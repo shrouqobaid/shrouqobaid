@@ -30,8 +30,10 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 | **Scripting & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
 
 ### 🚀 Featured Projects
-* **[Wireshark SOC Analysis Lab](https://github.com/shrouqobaid/Wireshark-SOC-Analysis-Lab)** - *Investigating brute force attacks and traffic anomalies.*
-* **[Network Scanning Lab](https://github.com/shrouqobaid/network-scanning-lab)** - *Advanced reconnaissance and service enumeration using Nmap.*
+* **[CyberSentinel-Splunk](https://github.com/shrouqobaid/CyberSentinel-Splunk)** - *A comprehensive Splunk-based SOC investigation project, including threat detection and incident response.*
+* **[Remcos-RAT-Traffic-Analysis](https://github.com/shrouqobaid/Remcos-RAT-Traffic-Analysis)** - *Network forensic analysis of RAT infection, documenting the investigation process and IOC extraction.*
+* **[Wireshark SOC Analysis Lab](https://github.com/shrouqobaid/Wireshark-SOC-Analysis-Lab)** - *Investigating brute force attacks and traffic anomalies using packet analysis and tool fingerprinting.*
+* **[Network Scanning Lab](https://github.com/shrouqobaid/network-scanning-lab)** - *Advanced reconnaissance and service enumeration using Nmap, including security reporting and remediation strategies.*
 
 ---
 
