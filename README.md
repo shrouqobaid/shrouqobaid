@@ -22,13 +22,12 @@ Passionate about defensive security, traffic analysis, and uncovering hidden thr
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Analysis & Monitoring** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![TCPDump](https://img.shields.io/badge/TCPDump-00599C?style=flat&logo=linux&logoColor=white) |
-| **SIEM & Log Analysis** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) |
-| **Scanning & Recon** | ![Nmap](https://img.shields.io/badge/Nmap-4FADFF?style=flat&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat&logo=kali-linux&logoColor=white) |
-| **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Networking** | ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat&logo=cisco&logoColor=white) ![Network+](https://img.shields.io/badge/CompTIA_Network+-FF8C00?style=flat&logo=comptia&logoColor=white) |
-| **Scripting & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
-
+| **Analysis & Monitoring** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![TCPDump](https://img.shields.io/badge/TCPDump-00599C?style=for-the-badge&logo=linux&logoColor=white) |
+| **SIEM & Log Analysis** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) |
+| **Scanning & Recon** | ![Nmap](https://img.shields.io/badge/Nmap-4FADFF?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white) |
+| **OS & Environments** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Networking** | ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=cisco&logoColor=white) ![Network+](https://img.shields.io/badge/CompTIA_Network+-FF8C00?style=for-the-badge&logo=comptia&logoColor=white) |
+| **Scripting & Cloud** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 ---
 
 ### 🚀 Featured Projects
